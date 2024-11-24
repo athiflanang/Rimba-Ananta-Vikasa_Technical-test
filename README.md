@@ -4,7 +4,7 @@ Technical Test for Rimba Ananta Vikasa
 
 ## FOREWARNING !!
 
-This project is still incomplete, both backend and frontend is still missing several logic's and code, in addition the is also no connection between the backend and frontend
+This project is still incomplete, both backend and frontend is still missing several logic's and code, in addition there is also no connection between the backend and frontend
 
 ## Background
 
