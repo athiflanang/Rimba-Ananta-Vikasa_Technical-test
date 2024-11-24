@@ -1,0 +1,72 @@
+[
+  {
+    "productName": "The Last Kingdom",
+    "date": "2023-01-15",
+    "productCode": "BK001",
+    "price": 190000,
+    "quantity": 120
+  },
+  {
+    "productName": "Future Horizons",
+    "date": "2023-02-20",
+    "productCode": "BK002",
+    "price": 240000,
+    "quantity": 85
+  },
+  {
+    "productName": "Mystery of the Lost City",
+    "date": "2023-03-10",
+    "productCode": "BK003",
+    "price": 170000,
+    "quantity": 150
+  },
+  {
+    "productName": "The Silent Patient",
+    "date": "2023-04-05",
+    "productCode": "BK004",
+    "price": 220000,
+    "quantity": 95
+  },
+  {
+    "productName": "The Night Circus",
+    "date": "2023-05-18",
+    "productCode": "BK005",
+    "price": 200000,
+    "quantity": 110
+  },
+  {
+    "productName": "The Invisible Life of Addie LaRue",
+    "date": "2023-06-25",
+    "productCode": "BK006",
+    "price": 210000,
+    "quantity": 130
+  },
+  {
+    "productName": "Where the Crawdads Sing",
+    "date": "2023-07-30",
+    "productCode": "BK007",
+    "price": 180000,
+    "quantity": 140
+  },
+  {
+    "productName": "The Book Thief",
+    "date": "2023-08-15",
+    "productCode": "BK008",
+    "price": 160000,
+    "quantity": 160
+  },
+  {
+    "productName": "The Midnight Library",
+    "date": "2023-09-10",
+    "productCode": "BK009",
+    "price": 230000,
+    "quantity": 100
+  },
+  {
+    "productName": "The Vanishing Half",
+    "date": "2023-10-05",
+    "productCode": "BK010",
+    "price": 250000,
+    "quantity": 90
+  }
+]
